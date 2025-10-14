@@ -40,5 +40,7 @@ I like puzzle solving, writing novels, going on walks, playing the piano (self t
 
 # 📫 Contact Info
 [Check out my Github](https://github.com/audreyburrell)
+
 [Linkedln](https://www.linkedin.com/in/audrey-burrell-786479341/)
+
 [audreyb2165@gmail.com](mailto:audreyb2165@gmail.com)
