@@ -23,7 +23,7 @@ This application was created using **Figma** and included several rounds of revi
 
 This is an application where the user can upload a CSV or manually enter in various assignments that they have to do throughout the semester. I thought of this as I was talking to fellow students about how they kept track of assignments, and there was always a few problems that I noticed about each of them (mainly they can become crowded pretty fast, it can be hard to check things off, or color coding is difficult). After getting all the assignments in that the user wants, they can view it in a daily to-do list (here they can also check things off), in a weekly to-do list, and a monthly to do list. Each item is color-coded based off the color that the user chose for the class. Built with **HTML**, **CSS**, **React** for the front end and **Node.js** for the backend.
 
-#### [Brainstorm-Board](https://github.com/AudreyBurrell/BrainstormBoard)
+#### [Brainstorm-Board](https://github.com/AudreyBurrell/Brainstorm-Board)
 **Developed as a personal project, January 2026 - Present**
 
 This is basically a virtual whitebaord where the user can draw, select premade templates, add draggable text boxes and sticky notes, and also customize some visual settings like font color and size. They can download a JSON to their computer and then reupload it (and still be able to edit everything after uploading it). If the user is logged in, they also have the ability to save boards to their "library" and continue editing them that way. Built with **HTML**, **CSS**, and **React** for the front end, and **Node.js** for the backend.
