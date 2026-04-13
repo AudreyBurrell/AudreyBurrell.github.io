@@ -30,6 +30,7 @@ This is basically a virtual whitebaord where the user can draw, select premade t
 
 #### [Chess](https://github.com/AudreyBurrell/chess)
 **Developed as part of _CS 240 (Advanced Software Construction)_ at BYU, January 2026 - April 2026**
+
 This is an application where the user plays a game of chess against a computer. Built using **Java**, **HTTP Websocket**, and **mySQL**. 
 
 #### Clue
@@ -52,6 +53,7 @@ Experience creating accessible, interactive e-learning activities using **SmartB
 - HTML, CSS, JavaScript, React, Bootstrap
 - SmartBuilder
 - Java
+- AI tools such as Claude, ChatGPT, Gemini, Copilot
 
 **Design and Prototyping**
 - Accessibility
