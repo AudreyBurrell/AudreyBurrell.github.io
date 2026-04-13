@@ -29,7 +29,7 @@ This is an application where the user can upload a CSV or manually enter in vari
 This is basically a virtual whitebaord where the user can draw, select premade templates, add draggable text boxes and sticky notes, and also customize some visual settings like font color and size. They can download a JSON to their computer and then reupload it (and still be able to edit everything after uploading it). If the user is logged in, they also have the ability to save boards to their "library" and continue editing them that way. Built with **HTML**, **CSS**, and **React** for the front end, and **Node.js** for the backend.
 
 #### [Chess](https://github.com/AudreyBurrell/chess)
-**Developed as part of _CS 240 (Advanced Software Construction)_ at BYU, January 2026 - Present**
+**Developed as part of _CS 240 (Advanced Software Construction)_ at BYU, January 2026 - April 2026**
 This is an application where the user plays a game of chess against a computer. Built using **Java**, **HTTP Websocket**, and **mySQL**. 
 
 #### Clue
