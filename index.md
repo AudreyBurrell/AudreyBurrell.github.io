@@ -28,20 +28,19 @@ This is an application where the user can upload a CSV or manually enter in vari
 
 This is basically a virtual whitebaord where the user can draw, select premade templates, add draggable text boxes and sticky notes, and also customize some visual settings like font color and size. They can download a JSON to their computer and then reupload it (and still be able to edit everything after uploading it). If the user is logged in, they also have the ability to save boards to their "library" and continue editing them that way. Built with **HTML**, **CSS**, and **React** for the front end, and **Node.js** for the backend.
 
-#### [Listen-Link](https://github.com/AudreyBurrell/Listen-Link)
-**Developed as a personal proejct, February 2026 - Present**
-
-This is an application that is very similar to text to speech/live transcription, but it includes login/create account (so names display by the text), creation/deletion of "rooms" (so transcription can go to multiple phones at a time/multiple people can be sending out a transcription at a time), and different ways that the user can change the settings (possibly dark mode vs. light mode, text size, etc.). Built using **HTML**, **CSS**, and **React** for front end, and **Node.js** and **MongoDB** for the backend, along with tools such as **Socket.io client**.
-
 #### [Chess](https://github.com/AudreyBurrell/chess)
 **Developed as part of _CS 240 (Advanced Software Construction)_ at BYU, January 2026 - Present**
-
 This is an application where the user plays a game of chess against a computer. Built using **Java**, **HTTP Websocket**, and **mySQL**. 
+
+#### Clue
+**Developed as personal development at work, March 2026 - Present**
+This is an application where the user can play against two computers. It is similar to the clue-like card game that I built before, though this one uses **HTML**, **CSS**, and **JavaScript** rather than solely relying on SmartBuilder code blocks. This also includes a board rather than just cards. It has not been added to my GitHub repository yet as it is still in development on my work computer.
 
 #### Activities created through my job
 Experience creating accessible, interactive e-learning activities using **SmartBuilder**. Developed skills in **visual design**, **user interaction logic**, and **accessibility**. Developed projects in a process that included prototype review, peer review, and final client review. Built projects that included local storage or xAPI for the backend for tracking learning progress and performance, and also with custom **JavaScript**. Here are some examples of projects that I have made:
 - Battleship-like game (the user plays against a computer which uses math to determine it's next best move)
 - Activities similar to PhET simulations
+        - This includes a couple of molecule similations where the user can adjust values such as temperature and pH levels to see how different molecules/enzymes interact with each other and then also viewing a graph of the data. These activities were still screen reader accessible and used custom JavaScript for the molecule interactions and the graph creation. 
 - Click and reveal activities
 - Clue-like card game (the user plays against two CPUs)
 - Oregon Trail
