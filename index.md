@@ -35,7 +35,13 @@ This is an application where the user plays a game of chess against a computer. 
 
 #### Clue
 **Developed as personal development at work, March 2026 - Present**
+
 This is an application where the user can play against two computers. It is similar to the clue-like card game that I built before, though this one uses **HTML**, **CSS**, and **JavaScript** rather than solely relying on SmartBuilder code blocks. This also includes a board rather than just cards. It has not been added to my GitHub repository yet as it is still in development on my work computer.
+
+#### [Survival Game](https://github.com/AudreyBurrell/SurvivalGame)
+**Developed as a personal project, April 2026 - Present**
+
+This is a more game-like application than all the others that I have created. It is supposed to be a mash-up of the coolmath games Final Earth and Pre-Civilization Bronze Age. It is made using **HTML**, **CSS**, and **JavaScript**. It includes an area where the user can add things like houses, farms, etc. and the header displays all sorts of stats about the village.
 
 #### Activities created through my job
 Experience creating accessible, interactive e-learning activities using **SmartBuilder**. Developed skills in **visual design**, **user interaction logic**, and **accessibility**. Developed projects in a process that included prototype review, peer review, and final client review. Built projects that included local storage or xAPI for the backend for tracking learning progress and performance, and also with custom **JavaScript**. Here are some examples of projects that I have made:
