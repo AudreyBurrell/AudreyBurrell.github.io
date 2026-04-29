@@ -51,6 +51,7 @@ Experience creating accessible, interactive e-learning activities using **SmartB
 - Click and reveal activities
 - Clue-like card game (the user plays against two CPUs)
 - Oregon Trail
+- **[PDF Vocab Viewer](https://github.com/AudreyBurrell/PDFVocabDisplay)**. Note that you will have to click into the folder to view the code and the README.
 
 ---
 
