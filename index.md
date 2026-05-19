@@ -33,8 +33,8 @@ This is basically a virtual whitebaord where the user can draw, select premade t
 
 This is an application where the user plays a game of chess against a computer. Built using **Java**, **HTTP Websocket**, and **mySQL**. 
 
-#### Clue
-**Developed as personal development at work, March 2026 - Present**
+#### [Clue](https://github.com/AudreyBurrell/Clue)
+**Developed as personal development at work, March 2026 - May 2026**
 
 This is an application where the user can play against two computers. It is similar to the clue-like card game that I built before, though this one uses **HTML**, **CSS**, and **JavaScript** rather than solely relying on SmartBuilder code blocks. This also includes a board rather than just cards. It has not been added to my GitHub repository yet as it is still in development on my work computer.
 
