@@ -3,15 +3,16 @@ I am studying Computer Science with an emphasis in Human-Computer Interaction at
 ---
 
 ### 💻 Projects
+
+#### Branch Directory
+**Developed as a project for my home branch, June 2026 - Present**
+
+This application was created using **HTML**, **CSS**, and **JS** for the front end and **Mongo DB** and **Netlify** for the backend. Users can more easily view, search, and filter through members and see when they last gave a talk and how long it has been, along with other information like their name and age. Includes user authentication, CSV uploading for a quick way of adding members. For security reasons, it will not be posted onto my GitHub.
+
 #### [DoodleDrop](https://github.com/AudreyBurrell/doodledrop)
 **Developed as part of _CS 260 (Web Programming)_ at BYU, January-April 2025.**
 
 DoodleDrop is a web app where users can draw on a digital canvas and save them to their 'gallery'. Built with **HTML**, **CSS**, **JavaScript (React)**, **Node.js**, and  **MongoDB**. Includes user authentication, gallery management, and an interactive design. 
-
-#### [StudyingGame](https://github.com/AudreyBurrell/StudyingGame)
-**Developed as a personal project, September 2025 - Present**
-
-StudyingGame (name will be changed later) is a mash between Quizlet and Blooket, keeping the best parts of each and (hopefully) getting rid of the parts that make it hard to use those applications. Built with **HTML**, **CSS**, **JavaScript**. Users can manually create or import question sets (via CSV) and practice using flashcards, tests. At the end of the activities, it will display the percentage of questions they got right and if they got any question wrong more than once, it will display those questions and offer a personalized flashcard activity with just those questions. It uses **Node.js** for user authentication and storing question sets. Planned features includes adding more game-ified ways that the user can study, such as a platformer game. Planned features include saving user sets for later review. 
 
 #### [Cook-a-Book](https://www.figma.com/proto/wEGvZ31apc8JDXqlJtnj7L/COOK-A-Book?node-id=0-1&t=Nn884TdWPmBlZraB-1)
 **Developed as a team project as part of _CS 256 (Intro to Human-Computer Interaction)_ at BYU, October 2025 - December 2025**
@@ -36,12 +37,17 @@ This is an application where the user plays a game of chess against a computer. 
 #### [Clue](https://github.com/AudreyBurrell/Clue)
 **Developed as personal development at work, March 2026 - May 2026**
 
-This is an application where the user can play against two computers. It is similar to the clue-like card game that I built before, though this one uses **HTML**, **CSS**, and **JavaScript** rather than solely relying on SmartBuilder code blocks. This also includes a board rather than just cards. It has not been added to my GitHub repository yet as it is still in development on my work computer.
+This is an application where the user can play against two computers. It is similar to the clue-like card game that I built before, though this one uses **HTML**, **CSS**, and **JavaScript** rather than solely relying on SmartBuilder code blocks. This also includes a board rather than just cards.
 
 #### [Survival Game](https://github.com/AudreyBurrell/SurvivalGame)
 **Developed as a personal project, April 2026 - Present**
 
 This is a more game-like application than all the others that I have created. It is supposed to be a mash-up of the coolmath games Final Earth and Pre-Civilization Bronze Age. It is made using **HTML**, **CSS**, and **JavaScript**. It includes an area where the user can add things like houses, farms, etc. and the header displays all sorts of stats about the village.
+
+#### [StudyingGame](https://github.com/AudreyBurrell/StudyingGame)
+**Developed as a personal project, September 2025 - Present**
+
+StudyingGame (name will be changed later) is a mash between Quizlet and Blooket, keeping the best parts of each and (hopefully) getting rid of the parts that make it hard to use those applications. Built with **HTML**, **CSS**, **JavaScript**. Users can manually create or import question sets (via CSV) and practice using flashcards, tests. At the end of the activities, it will display the percentage of questions they got right and if they got any question wrong more than once, it will display those questions and offer a personalized flashcard activity with just those questions. It uses **Node.js** for user authentication and storing question sets. Planned features includes adding more game-ified ways that the user can study, such as a platformer game. Planned features include saving user sets for later review. 
 
 #### Activities created through my job
 Experience creating accessible, interactive e-learning activities using **SmartBuilder**. Developed skills in **visual design**, **user interaction logic**, and **accessibility**. Developed projects in a process that included prototype review, peer review, and final client review. Built projects that included local storage or xAPI for the backend for tracking learning progress and performance, and also with custom **JavaScript**. Here are some examples of projects that I have made:
@@ -51,8 +57,8 @@ Experience creating accessible, interactive e-learning activities using **SmartB
 - Click and reveal activities
 - Clue-like card game (the user plays against two CPUs)
 - Oregon Trail
-
-
+- Rubric template activity where all the information in the activity (what is in the rubric and expert response stuff) is uploaded through a CSV, in the activity the users can grade an essay or audio clip and then see how their grading compares with the expert
+  
 ---
 
 ### 🧩 Skills
@@ -60,13 +66,13 @@ Experience creating accessible, interactive e-learning activities using **SmartB
 - HTML, CSS, JavaScript, React, Bootstrap
 - SmartBuilder
 - Java
-- AI tools such as Claude, ChatGPT, Gemini, Copilot
+- AI tools such as Claude, ChatGPT, Gemini, Copilot, Codex
 
 **Design and Prototyping**
 - Accessibility
 - Documentation
 - Peer and client reviews
-- Adobe photoshop, illustrator, Canva, Figma
+- Adobe photoshop, Illustrator, Canva, Figma
 
 **Other**
 - Prototyping and Peer Review
