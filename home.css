@@ -202,3 +202,15 @@ main {
     }
 
 }
+
+
+/* Links inside the About Me text */
+.introduction p a {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.introduction p a:hover {
+    color: var(--accent-dark);
+}
