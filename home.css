@@ -175,6 +175,15 @@ main {
     margin-bottom: 0;
 }
 
+.demo-link {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.demo-link:hover {
+    color: var(--accent-dark);
+    text-decoration: underline;
+}
 
 /* ==========================
    RESPONSIVE DESIGN
