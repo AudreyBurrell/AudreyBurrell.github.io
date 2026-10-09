@@ -29,6 +29,92 @@
             <!-- <br> -->
             <section class="project-card">
                 <div class="project-header">
+                    <h2>Brainstorm-Board</h2>
+                    <p class="project-date">Developed as a personal project | Jan. 2026 - Feb. 2026</p>
+                </div>
+                <p class="project-description">
+                    A full-stack application designed to give users a virtual whiteboard for brainstorming ideas. Materials
+                    that they can use include pre-made templates and tools such as markers, draggable sticky notes, 
+                    and draggable text boxes. If the user is logged in, they can save their boards to a "library" and 
+                    access them later. Users can also download/upload boards, whether or not they are logged in.
+                </p>
+                <div class="tech-tags">
+                    <span>HTML/CSS</span>
+                    <span>React</span>
+                    <span>Node.js</span>
+                    <span>UI Design</span>
+                    <span>User Authentication</span>
+                    <span>AI-assisted</span>
+                </div>
+                <div class="case-study">
+                    <div class="case-section">
+                        <h3>Problem</h3>
+                        <p>
+                            Many online whiteboard tools either require subscriptions to use or have too many advanced features
+                            which make the application hard to use. I wanted to create something that could satisfy basic brainstorming
+                            needs (like the ones I needed for planning out my books) while giving enough flexibility to still be customizable 
+                            and usable without being logged in.
+                        </p>
+                    </div>
+                    <div class="case-section">
+                        <h3>Implementation</h3>
+                        <p>
+                            I built a full-stack web application using HTML, CSS, and React for the front-end, and Node.js for the back-end.
+                            This application includes customizable features for the user to use on the whiteboard, user authentication,
+                            download/upload board capabilities and persistent back-end storage that allows users to save and continue editing
+                            their boards no matter their authentication status.
+                        </p>
+                        <br>
+                        <p>
+                            I used AI-assisted development tools such as ChatGPT and Claude throughout development to brainstorm implementation
+                            approaches, debug issues, and improve efficiency. These tools were mainly used for CSS styling and React component setup.
+                            I also used it for drag-and-drop interactions, file upload/download functionality, and back-end implementation. I remained
+                            responsible for the application's design decisions, testing, and final code, frequently modifying or extending AI-generated 
+                            suggestions to meet the project's needs.
+                        </p>
+                    </div>
+                    <div class="case-section">
+                        <h3>Design Decisions</h3>
+                        <p>
+                            I wanted to make the interface feel open and only include essential, clearly labeled tools for what the user can choose from so users could
+                            focus on brainstorming rather than learning complicated controls. But there are still plenty of things that the user could choose
+                            from/customize (like the text color, sticky note color, size, templates, etc.) to give the users plenty of creativity and to make
+                            the application usable with different planning styles.
+                        </p>
+                    </div>
+                    <div class="case-section">
+                        <h3>Challenges</h3>
+                        <p>
+                            The first challenge that I faced was that I had limited experience working with the HTML Canvas API, so getting the drawing logic to work was
+                            tricky, but luckily I had an older project that I could look back to. Then I had to figure out how to make the template appear
+                            behind the editable canvas so the user couldn't erase parts of the template when erasing their drawing and how to make objects
+                            like the text boxes and sticky notes draggable.
+                        </p>
+                        <br>
+                        <p>
+                            Another challenge was designing a system to manage the application's state while allowing each object to remain 
+                            independent and available. The system also needed to perserve each object's position, color, and size so boards could 
+                            be saved and reopened without losing functionality. 
+                        </p>
+                    </div>
+                    <div class="case-section">
+                        <h3>Results</h3>
+                        <p>
+                            This application provides users with a workspace for brainstorming and organizing ideas. Through this project, I was better able to
+                            understand React, gained experience managing application state, and learned more about JSON and persistent data storage. I also learned
+                            that AI can be used to help brainstorm different ways to code something before tackling the problem, which was especially helpful for the 
+                            draggable text boxes/sticky notes and the templates. If I were working on this project again, I would try to keep the React components in 
+                            separate files to make the code cleaner.
+                        </p>
+                        <div class="project-links">
+                            <p><a href="https://github.com/AudreyBurrell/Brainstorm-Board" target="_blank">GitHub Repo &rarr;</a></p>
+                            <p><a href="https://audreyburrell.github.io/Brainstorm-Board/" target="_blank">Live Demo &rarr;</a></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="project-card">
+                <div class="project-header">
                     <h2>Branch Directory Application</h2>
                     <p class="project-date">Developed for my home branch | June 2026 - Present</p>
                 </div>
@@ -181,92 +267,6 @@
                         </p>
                         <div class="project-links">
                             <p><a href="https://www.figma.com/proto/wEGvZ31apc8JDXqlJtnj7L/COOK-A-Book?node-id=0-1&t=Nn884TdWPmBlZraB-1" target="_blank">View Figma Prototype &rarr;</a></p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="project-card">
-                <div class="project-header">
-                    <h2>Brainstorm-Board</h2>
-                    <p class="project-date">Developed as a personal project | Jan. 2026 - Feb. 2026</p>
-                </div>
-                <p class="project-description">
-                    A full-stack application designed to give users a virtual whiteboard for brainstorming ideas. Materials
-                    that they can use include pre-made templates and tools such as markers, draggable sticky notes, 
-                    and draggable text boxes. If the user is logged in, they can save their boards to a "library" and 
-                    access them later. Users can also download/upload boards, whether or not they are logged in.
-                </p>
-                <div class="tech-tags">
-                    <span>HTML/CSS</span>
-                    <span>React</span>
-                    <span>Node.js</span>
-                    <span>UI Design</span>
-                    <span>User Authentication</span>
-                    <span>AI-assisted</span>
-                </div>
-                <div class="case-study">
-                    <div class="case-section">
-                        <h3>Problem</h3>
-                        <p>
-                            Many online whiteboard tools either require subscriptions to use or have too many advanced features
-                            which make the application hard to use. I wanted to create something that could satisfy basic brainstorming
-                            needs (like the ones I needed for planning out my books) while giving enough flexibility to still be customizable 
-                            and usable without being logged in.
-                        </p>
-                    </div>
-                    <div class="case-section">
-                        <h3>Implementation</h3>
-                        <p>
-                            I built a full-stack web application using HTML, CSS, and React for the front-end, and Node.js for the back-end.
-                            This application includes customizable features for the user to use on the whiteboard, user authentication,
-                            download/upload board capabilities and persistent back-end storage that allows users to save and continue editing
-                            their boards no matter their authentication status.
-                        </p>
-                        <br>
-                        <p>
-                            I used AI-assisted development tools such as ChatGPT and Claude throughout development to brainstorm implementation
-                            approaches, debug issues, and improve efficiency. These tools were mainly used for CSS styling and React component setup.
-                            I also used it for drag-and-drop interactions, file upload/download functionality, and back-end implementation. I remained
-                            responsible for the application's design decisions, testing, and final code, frequently modifying or extending AI-generated 
-                            suggestions to meet the project's needs.
-                        </p>
-                    </div>
-                    <div class="case-section">
-                        <h3>Design Decisions</h3>
-                        <p>
-                            I wanted to make the interface feel open and only include essential, clearly labeled tools for what the user can choose from so users could
-                            focus on brainstorming rather than learning complicated controls. But there are still plenty of things that the user could choose
-                            from/customize (like the text color, sticky note color, size, templates, etc.) to give the users plenty of creativity and to make
-                            the application usable with different planning styles.
-                        </p>
-                    </div>
-                    <div class="case-section">
-                        <h3>Challenges</h3>
-                        <p>
-                            The first challenge that I faced was that I had limited experience working with the HTML Canvas API, so getting the drawing logic to work was
-                            tricky, but luckily I had an older project that I could look back to. Then I had to figure out how to make the template appear
-                            behind the editable canvas so the user couldn't erase parts of the template when erasing their drawing and how to make objects
-                            like the text boxes and sticky notes draggable.
-                        </p>
-                        <br>
-                        <p>
-                            Another challenge was designing a system to manage the application's state while allowing each object to remain 
-                            independent and available. The system also needed to perserve each object's position, color, and size so boards could 
-                            be saved and reopened without losing functionality. 
-                        </p>
-                    </div>
-                    <div class="case-section">
-                        <h3>Results</h3>
-                        <p>
-                            This application provides users with a workspace for brainstorming and organizing ideas. Through this project, I was better able to
-                            understand React, gained experience managing application state, and learned more about JSON and persistent data storage. I also learned
-                            that AI can be used to help brainstorm different ways to code something before tackling the problem, which was especially helpful for the 
-                            draggable text boxes/sticky notes and the templates. If I were working on this project again, I would try to keep the React components in 
-                            separate files to make the code cleaner.
-                        </p>
-                        <div class="project-links">
-                            <p><a href="https://github.com/AudreyBurrell/Brainstorm-Board" target="_blank">GitHub Repo &rarr;</a></p>
-                            <p><a href="https://audreyburrell.github.io/Brainstorm-Board/" target="_blank">Live Demo &rarr;</a></p>
                         </div>
                     </div>
                 </div>
